@@ -10,7 +10,6 @@
 - **📱 Full-Stack & Mobile Development** — I don't just build side projects, I ship them. My real-time multiplayer party game **"Who Am I?"** is live on the **App Store & Google Play**, built solo from backend sync to UI. 
 - **🧠 Algorithms & Simulation** — I like turning theory into something you can watch move. My A* pathfinding simulator computes obstacle-free routes in a live 2D grid environment.
 - **🛠️ Web & IT — Production Support** — As a working student, I've kept business-critical systems and websites running: hands-on IT support, frontend fixes, and backend debugging under real deadlines.
-- 🎓 Studying **Informatik (B.Sc.)** at Universität Koblenz (Expected 2027).
 - 💡 Passionate about algorithms, full-stack development, and tech trends.
 - 📫 How to reach me: **batinyigitkaska@gmail.com**
 
