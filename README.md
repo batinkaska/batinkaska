@@ -1,17 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Batin Yigit Kaska</h1>
+<h3 align="center">Computer Science Student @ Universität Koblenz | I build things and ship them</h3>
 
-<!--
-**batinkaska/batinkaska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Hi 👋, I'm Batın Yigit Kaska</h1>
-<h3 align="center">Computer Science Student @ Universität Koblenz | Software & Web Developer</h3>
-
-<p align="left">
-  I am a Computer Science student with a minor in Physics, combining analytical thinking with practical experience in software, app, and web development. I love turning ideas into interactive applications and solving complex problems with clean code.
+<p align="center">
+  📍 Koblenz, Germany &nbsp;·&nbsp; 🎓 12th semester, Informatik B.Sc. &nbsp;·&nbsp; 🇩🇪 🇬🇧 🇹🇷
 </p>
 
-- 🔭 I’m currently working as an **IT Support & Web Development Working Student** at Einstein Gastro GmbH.
+### 🚀 What I Do
+
+- **📱 Full-Stack & Mobile Development** — I don't just build side projects, I ship them. My real-time multiplayer party game **"Who Am I?"** is live on the **App Store & Google Play**, built solo from backend sync to UI. 
+- **🧠 Algorithms & Simulation** — I like turning theory into something you can watch move. My A* pathfinding simulator computes obstacle-free routes in a live 2D grid environment.
+- **🛠️ Web & IT — Production Support** — As a working student, I've kept business-critical systems and websites running: hands-on IT support, frontend fixes, and backend debugging under real deadlines.
 - 🎓 Studying **Informatik (B.Sc.)** at Universität Koblenz (Expected 2027).
-- 📱 I recently published **"Who Am I?"** - a real-time multiplayer party game on the App Store and Google Play.
 - 💡 Passionate about algorithms, full-stack development, and tech trends.
 - 📫 How to reach me: **batinyigitkaska@gmail.com**
 
@@ -38,14 +37,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=batinkaska&theme=radical" alt="batinkaska's GitHub Streak" />
 </p>
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  📫 <a href="mailto:batinyigitkaska@gmail.com">batinyigitkaska@gmail.com</a>
+</p>
