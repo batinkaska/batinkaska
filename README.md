@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student @ Universität Koblenz | I build things and ship them</h3>
 
 <p align="center">
-  📍 Koblenz, Germany &nbsp;·&nbsp; 🎓 12th semester, Informatik B.Sc. &nbsp;·&nbsp; 🇩🇪 🇬🇧 🇹🇷
+  📍 Koblenz, Germany &nbsp;·&nbsp; 🎓 Informatik B.Sc. (Expected 2027) &nbsp;·&nbsp; 🇩🇪 🇬🇧 🇹🇷
 </p>
 
 ### 🚀 What I Do
